@@ -15,14 +15,14 @@
                         <a class="nav-link" href="#">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Project</a> 
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Skill</a> 
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li> 
                 </ul>
                 </div>
             </div>
